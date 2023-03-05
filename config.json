@@ -1,0 +1,12 @@
+{
+  "prefix": "?",
+  "token": "MTA1MTg4NzczNDkyODcxMTY4MQ.GSL_O0.Vm4ltgBDM_GQ6F8U-rm16_7qTKc_vTECmodzd0",
+  "owners": ["1007586693559361588"],
+  "footer": "NSFW Bot • .gg/ifsaland",
+
+  "msg": {
+    "nsfwWarn": "You must use this command in an nsfw channel!",
+    "loading": "Please wait...",
+    "imageNotLoading": "Image not loading ? Click Here"
+  }
+}
